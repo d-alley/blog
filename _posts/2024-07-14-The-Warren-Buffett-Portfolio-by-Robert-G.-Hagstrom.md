@@ -1,8 +1,12 @@
 <img src="2024-07-14-Image" width=50%>
 
+
+
 >**Key Takeaway:**
 >
 >A good investor analyses the company's long-term earning power and management's ability to keep the course. Any actions that dilutes the company's look-through earnings, or the overall look-through earnings of a portfolio, destroys value. The instinct to invest and the number sense requires reading about the company and the environment it operates in day after day, across a substantial period of time, so that there's a backdrop against which you can form informed perspectives on the relative proabilitiy of success of the company.
+
+
 
 The Preface to the book was written in February 1999, where the author stated that the book is meant to be a companion to "The Warren Buffett Way" and emphasises two important areas: *structure* and *cognition*. He mentioned that Warren Buffett believes that it is very important to have a fundamental grasp of mathematics and probabilities, and that investors should understand the psychology of the market.
 
@@ -42,7 +46,11 @@ The members of this one unique group are defined not by where they live but by w
 2. Steadfast holding of fiarly large units through thick and thin until they fulfilled their promise or it is evident that they were purchased on a mistake;
 3. Balanced investment position, and if possible opposed risks.
 
+
+
 > In my opinion Chapter 4 is the most important chapter in the book as it suggests a better way to measure performance. How a weak stock could dilute returns of a portfolio and the job of the manager is to improve the rate of return by picking a few focused high quality companies.
+
+
 
 **Buffett + Munger**
 
