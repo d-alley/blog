@@ -1,4 +1,4 @@
-<img src="2024-07-14-Image" width=50%>
+![Cover](2024-07-14-Image.jpg)
 
 
 
@@ -148,7 +148,9 @@ Harvard Business School teaches decision tree theory, all they do is take high s
 
 **Risk Arbitrage is something Buffett has been doing for 40 years.**
 
+
 >Kelly Optimization Model: 2p - 1 = x
+
 
 Because the relationship in the Kelly model is parabolic, the penalty for underbetting is not severe. A half-Kelly, which reduces the amount of the bet by 50%, reduces the potential growth rate by only 25%.
 1. First be willing to think about buying stocks in terms of probabilities
