@@ -1,4 +1,4 @@
-![Cover](2024-07-14-Image.jpg)
+![Cover](2024-07-14-Image)
 
 
 
