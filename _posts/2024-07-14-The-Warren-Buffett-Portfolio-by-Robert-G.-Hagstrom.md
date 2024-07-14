@@ -1,4 +1,4 @@
-<img src="https://d-alley.github.io/blog/_posts/2024-07-14-Image">
+<img src="https://d-alley.github.io/blog/2024-07-14-Image">
 
 
 
