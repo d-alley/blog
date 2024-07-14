@@ -1,6 +1,3 @@
-## Title: "The Warren Buffett Portfolio by Robert G. Hagstrom"
-### Date: 2024-07-14
-
 <img src="2024-07-14-Image" width=50%>
 
 >**Key Takeaway:**
