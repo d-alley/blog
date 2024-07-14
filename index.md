@@ -1,4 +1,1 @@
----
-D Alley: Welcome to our blog
----
-
+title: Welcome to D Alley
