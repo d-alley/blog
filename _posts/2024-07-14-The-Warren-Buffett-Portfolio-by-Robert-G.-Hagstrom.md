@@ -1,4 +1,4 @@
-![Cover](blog/_posts/2024-07-14-Image)
+<img src="https://github.com/d-alley/blog/_posts/2024-07-14-Image">
 
 
 
