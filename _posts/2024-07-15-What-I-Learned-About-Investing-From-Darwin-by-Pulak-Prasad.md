@@ -7,7 +7,7 @@ In the Acknowledgements section, the author read the book *The Selfish Gene* by 
 
 ## Avoid Big Risks
 
->In Chapter 1, the author discussed how *"betting your life"* is a remarkably sound strategy for investing and how adopting this approach has led to the spectacular success of *all* living organisms over millions of years.
+>In Chapter 1, the author discussed how <ins>"betting your life"</ins> is a remarkably sound strategy for investing and how adopting this approach has led to the spectacular success of *all* living organisms over millions of years.
 
 Type I error: do things we are not supposed to do, e.g. make a bad investment because I erroneously think it is a good one. Harm themselves.
 
@@ -51,7 +51,7 @@ Minimizing Type I errors increases Success Rate much more dramatically than mini
 3. Detesting Debt: If a company can borrow money to purchase assets, its return on equity and earnings per share should improve. Mathematically, this is undoubtedly true. Realistically, this is undoubtedly dangerous.
 >What could be more important than improving short-term return on equity and earnings per share for a business:
 >1. Survival. There is no point in improving return on equity by a few % if it compromises long-term survival. The 20 biggest bankruptcies in the United States, *all*, were heavily indebted. More than 90% of Nalanda's portfolio companies have excess cash and *no* leverage. Only 3 out of 30 have some debt, and the maximum debt/equity ratio among the three is 0.3.
->2. *Debt diminishes strategic flexibility and hence long-term value creation.*
+>2. Debt diminishes strategic flexibility and hence long-term value creation.
 4. Ignoring M&A Junkies: AOL an Time Warner, $350 billion merger in 2000. Within 2 years, AOL took a write-off of $99 *billion* on the deal and market value went from $226 billion in 2000 to $20 billion in 2002, acquired by Verizon for $4.4 billion in 2015. *Harvard Business Review* article by Clyton Christensen and others titled "The Big Idea: The New M&A Playbook" claims that 70 to 90% of M&A fail; KPMG study claims that 83% of merger deals did not create value. Reasons for failure include culture mismatch, overpayment, misevaluation of the opportunity, external factors, and integration problems, among many others. Singple biggest reason Nalanda detest M&A: *opportunity cost*
 >What Bayer missed doing by making a gargantuan acquisition of Monsanto:
 >1. divestiture of attractive business
