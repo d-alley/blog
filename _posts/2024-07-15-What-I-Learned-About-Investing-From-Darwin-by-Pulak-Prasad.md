@@ -108,4 +108,13 @@ Lyudmila's selection of tamer foxes alttered the amount and timing of release of
 
 **At Nalanda, they *begin* with *historical* return on capital employed (ROCE) while short-listing businesses.**
 
-$ROCE = {EBIT\over Net Working Capital + Net Fixed Assets}$
+$$ROCE = {EBIT\over Net Working Capital + Net Fixed Assets}$$
+
+Exclude excess cash (i.e., cash minus debt if cash happens to be much greater than debt) in Net Working Capital because extra cash is not an operating asset.
+
+For an acquisitive company, include the capital invested in acquiring businesses.
+
+The advantage of measuring ROCE is that it accounts for the quality of P&L (in the numerator) as well as the balance sheet (in the denominator).
+
+***A Consistently High-ROCE Business Is Likely to Be Run by an Excellent Management Team***
+
