@@ -49,6 +49,14 @@ Minimizing Type I errors increases Success Rate much more dramatically than mini
 >What could be more important than improving short-term return on equity and earnings per share for a business:
 >1. Survival. There is no point in improving return on equity by a few % if it compromises long-term survival. The 20 biggest bankruptcies in the United States, *all*, were heavily indebted. More than 90% of Nalanda's portfolio companies have excess cash and *no* leverage. Only 3 out of 30 have some debt, and the maximum debt/equity ratio among the three is 0.3.
 >2. **Debt diminishes strategic flexibility and hence long-term value creation.**
-4. Ignoring M&A Junkies
-5. Not Predicting Where the Puck Will be
-6. Not Aligning with Unaligned Owners 
+4. Ignoring M&A Junkies: AOL an Time Warner, $350 billion merger in 2000. Within 2 years, AOL took a write-off of $99 *billion* on the deal and market value went from $226 billion in 2000 to $20 billion in 2002, acquired by Verizon for $4.4 billion in 2015. *Harvard Business Review* article by Clyton Christensen and others titled "The Big Idea: The New M&A Playbook" claims that 70 to 90% of M&A fail; KPMG study claims that 83% of merger deals did not create value. Reasons for failure include culture mismatch, overpayment, misevaluation of the opportunity, external factors, and integration problems, among many others. Singple biggest reason Nalanda detest M&A: **opportunity cost**
+>What Bayer missed doing by making a gargantuan acquisition of Monsanto:
+>1. divestiture of attractive business
+>2. reduced focus on existing businesses
+>3. missed opportunities
+5. Not Predicting Where the Puck Will be: 546 IPOs successfully raised $69 billion in 1999 alone but *very* few companies have created truly significant value from the dot-com era, such as Amazon, Google, eBay and Priceline (now called Booking Holdings).
+6. Not Aligning with Unaligned Owners: Nalanda want the company owner to align their interest with the shareholders'. one and only one objective as a shareholder of any business is **long-term value creation**. The company must do this in an ethical, sustainable manner that is fair to all stakeholders, including employees, vendors, suppliers, and customers.
+>Three broad categories of owners that Nalanda avoid to mitigate Type I risk:
+>1. Government-owned businesses: The government wants to achieve multiple objectives with their businesses, some of which have nothing to do with enhancing value and profits. The skill required to run a company successfully in a competitive environment is not the same as that needed to manage a district or devise a sound social policy for a state.
+>2. Listed subsidiaries of global giants: they are more interested in the value creation of the *parent*, not the Indian-listed child. Best managers in MNCs are sent tto the privately held *separate* fully owned subsidiary, not the listed subsidiary that the Indian government forced them to list.
+>3. Indian conglomerates: value creation is possible only through sustained focus. How does one achieve excellence in multiple entities across entirely different industries?
