@@ -1,8 +1,8 @@
 
 In the Acknowledgements section, the author read the book *The Selfish Gene* by Richard Dawkins, recommended by Charlie Munger in 2000 and his life hasn't been the same since. The book is broken down into 3 sections:
-Section 1. Avoid Big Risks
-Section 2. Buy High Quality at a Fair Price
-Section 3. Don't be lazy - be *very* lazy
+1. Avoid Big Risks
+2. Buy High Quality at a Fair Price
+3. Don't be lazy - be *very* lazy
 
 ## Avoid Big Risks
 
@@ -65,3 +65,45 @@ Minimizing Type I errors increases Success Rate much more dramatically than mini
 
 **At Nalanda, shortlist comprises 75 to 80 companies out of a universe of about 800 with a market value of more than $100 million.**
 
+## Buy High Quality at a Fair Price
+
+*An economic franchise arises from a product or service that (1) is needed or desired; (2) is thought by its customers to have no close substitute; and (3) is not subject to price regulation. The existence of all three conditions will be demonstrated by a company's ability to regularly price its product or service aggressively and thereby to earn high rates of return on capital. Moreoever, franchises can tolerate mismanagement. Inept managers may diminish a franchise's profitability, but they cannot inflict mortal damage.* - Warren Buffett, 1991
+
+Two-step approach at Nalanda:
+1. use *one* selection criterion that filters out low-quality or average-quality businesses and yields a premliminary list of high-quality companies.
+2. Do more work on this preliminary list to further whittle it down to a final list.
+
+>Investable universe: 800 Indian businesses (with a market value of more than $150 million)
+>Reject close to 350 companies to minimize the risks outlined in Section 1.
+>About 450 businesses remain. Then apply a *single* filter "F" to cut down this list to about 150 firms.
+>F simply gives the preliminary list on which work needs to be done to further reject or choose businesses.
+>Final list has only about 75 to 80 businesses.
+
+What is F?
+1. It should be easily measurable
+2. It should remove most, if not all, low-quality businesses
+3. It should select most, if not all, high-quality businesses
+
+Guesses for F:
+1. Management: when someone says, "This is a great management team," what they are *actually* saying is, "These guys talk so well!" The "great management team" filter fails the first criterion of measurability (being easily measurable)
+2. Revenue growth: problem is how do we know what went *into* achieving this growth? most internet businesses were growing fast during the dot-com bust. They ignored the cost of growth and suffered for it.
+3. Margins: Gross margin doesn't tell us anythign about the *quality* of business. EBITDA or EBIT margin can't distinguish a good business Costco (3% operating margin) vs Tiffany & Co. (19% operating margin) and fails to filter fo the second *and* third criteria.
+4. Macro factors: if inflation is picked as the macro factor, do you compeltely revise the list if the inflation expectations get reversed wtihin 6 months?
+
+Dmitri Belyaev wanted to answer 2 questions:
+1. How had the domestication of animals (e.g., dogs, pigs, goats, and cows) started, and
+2. Why did most domestic animals have similar characteristics, including floppy ears, curly tails, a piebald coloration (patches of black and white), and babyish faces?
+
+>***What was being selected?***
+
+Dmitri hypothecized that the key facor selected when our ancestors domesticated wild animals was *tameness*. Lyudmila Trut bred wild foxes by selecting a few of the calmest Class I (friendliest and seemed to want to engage with the handlers) foxes for mating. The 8th generation started displaying novel *physical* traits in coat color with a piebald pattern, floppy ears and rolled tails. Lyudmila lived with a fox and it starts showing guard-dog-like behavior, rushing to protect a human from a potential threat.
+
+This single filter of a *behavioral* characteristic had triggered many *physical* changes in the animals. How could this have happened?
+
+When a dog owner stares lovingly into their canine's eyes, oxytocin is released int he systems of both the dog and the owner, creating a positive feedback loop in whcih the two enjoy each other's company more and more. Although it's the same gene in question, the gene expression is different in different situations. Scientists have demonstrated that gene expression needs to change only a little to have a significant impact on an animal's body and behavior.
+
+Lyudmila's selection of tamer foxes alttered the amount and timing of release of certain neurochemicals and hormones that regulated the developmental and physical traits of the foxes.
+
+>***Darwin predicted that if humans choose to select for one characteristic, they will surely also cause transformations in other characteristics owing to what he called the "mysterious laws of the correlation of growth".***
+
+**At Nalanda, they *begin* with historical return on capital employed (ROCE) while short-listing businesses.**
