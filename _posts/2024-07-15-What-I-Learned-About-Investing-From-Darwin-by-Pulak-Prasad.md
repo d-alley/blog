@@ -41,7 +41,7 @@ Buffett's Two Rules of Investing
 
 **A Great Investor Is a Great Rejector**
 
-***There are very few good investments in the market.***
+**There are very few good investments in the market.**
 
 Minimizing Type I errors increases Success Rate much more dramatically than minimizing Type II errors, simple because there are few good investments.
 
@@ -95,7 +95,7 @@ Dmitri Belyaev wanted to answer 2 questions:
 1. How had the domestication of animals (e.g., dogs, pigs, goats, and cows) started, and
 2. Why did most domestic animals have similar characteristics, including floppy ears, curly tails, a piebald coloration (patches of black and white), and babyish faces?
 
->***What was being selected?***
+**What was being selected?**
 
 Dmitri hypothecized that the key facor selected when our ancestors domesticated wild animals was *tameness*. Lyudmila Trut bred wild foxes by selecting a few of the calmest Class I (friendliest and seemed to want to engage with the handlers) foxes for mating. The 8th generation started displaying novel *physical* traits in coat color with a piebald pattern, floppy ears and rolled tails. Lyudmila lived with a fox and it starts showing guard-dog-like behavior, rushing to protect a human from a potential threat.
 
@@ -105,7 +105,7 @@ When a dog owner stares lovingly into their canine's eyes, oxytocin is released 
 
 Lyudmila's selection of tamer foxes alttered the amount and timing of release of certain neurochemicals and hormones that regulated the developmental and physical traits of the foxes.
 
->***Darwin predicted that if humans choose to select for one characteristic, they will surely also cause transformations in other characteristics owing to what he called the "mysterious laws of the correlation of growth".***
+**Darwin predicted that if humans choose to select for one characteristic, they will surely also cause transformations in other characteristics owing to what he called the "mysterious laws of the correlation of growth".**
 
 **At Nalanda, they *begin* with *historical* return on capital employed (ROCE) while short-listing businesses.**
 
@@ -117,5 +117,5 @@ For an acquisitive company, include the capital invested in acquiring businesses
 
 The advantage of measuring ROCE is that it accounts for the quality of P&L (in the numerator) as well as the balance sheet (in the denominator).
 
-***A Consistently High-ROCE Business Is Likely to Be Run by an Excellent Management Team***
+**A Consistently High-ROCE Business Is Likely to Be Run by an Excellent Management Team**
 
