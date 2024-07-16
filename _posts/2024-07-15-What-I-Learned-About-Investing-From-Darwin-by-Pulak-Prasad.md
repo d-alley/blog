@@ -108,4 +108,4 @@ Lyudmila's selection of tamer foxes alttered the amount and timing of release of
 
 **At Nalanda, they *begin* with *historical* return on capital employed (ROCE) while short-listing businesses.**
 
-$$ROCE = EBIT\over(Net Working Capital + Net Fixed Assets)$$
+$$ROCE &= EBIT\over(Net Working Capital + Net Fixed Assets)$$
