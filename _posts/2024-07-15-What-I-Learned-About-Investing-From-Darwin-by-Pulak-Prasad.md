@@ -105,7 +105,7 @@ When a dog owner stares lovingly into their canine's eyes, oxytocin is released 
 
 Lyudmila's selection of tamer foxes alttered the amount and timing of release of certain neurochemicals and hormones that regulated the developmental and physical traits of the foxes.
 
-**Darwin predicted that if humans choose to select for one characteristic, they will surely also cause transformations in other characteristics owing to what he called the "mysterious laws of the correlation of growth".**
+>Darwin predicted that if humans choose to select for one characteristic, they will surely also cause transformations in other characteristics owing to what he called the "mysterious laws of the correlation of growth".
 
 **At Nalanda, they *begin* with *historical* return on capital employed (ROCE) while short-listing businesses.**
 
