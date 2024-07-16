@@ -1,3 +1,4 @@
+<img src="d-alley.github.io/blog/images/2024-07-15-Image">
 
 In the Acknowledgements section, the author read the book *The Selfish Gene* by Richard Dawkins, recommended by Charlie Munger in 2000 and his life hasn't been the same since. The book is broken down into 3 sections:
 1. Avoid Big Risks
