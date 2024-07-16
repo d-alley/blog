@@ -46,9 +46,9 @@ Minimizing Type I errors increases Success Rate much more dramatically than mini
 1. Be wary of Criminals, Crooks, and Cheats
 2. Avoid Turnarounds: recommends IBM, Lou Gerstner's book *Who Says Elephants Can't Dance? Inside IBM's Historic Turnaround*, CEO of IBM from 1993 to 2002, stock price went up 7x from $13 to $77. Ron Johnson, credited with transforming Target and creating the iconic Apple Stores, took over JCPenny, sales dropped 25%, stock price dropped 60% during his 18 months tenure before being fired by the board in mid-2013. Predicting the fate of turnaroudn efforts even at what *appeared* at slam-dunk cases don't seem so clear cut.
 3. Detesting Debt: If a company can borrow money to purchase assets, its return on equity and earnings per share should improve. Mathematically, this is undoubtedly true. Realistically, this is undoubtedly dangerous.
-* What could be more important than improving short-term return on equity and earnings per share for a business:
-* 1. Survival. There is no point in improving return on equity by a few % if it compromises long-term survival. The 20 biggest bankruptcies in the United States, *all*, were heavily indebted. More than 90% of Nalanda's portfolio companies have excess cash and *no* leverage. Only 3 out of 30 have some debt, and the maximum debt/equity ratio among the three is 0.3.
-* 3. **Debt diminishes strategic flexibility and hence long-term value creation.**
+  What could be more important than improving short-term return on equity and earnings per share for a business:
+  1. Survival. There is no point in improving return on equity by a few % if it compromises long-term survival. The 20 biggest bankruptcies in the United States, *all*, were heavily indebted. More than 90% of Nalanda's portfolio companies have excess cash and *no* leverage. Only 3 out of 30 have some debt, and the maximum debt/equity ratio among the three is 0.3.
+  3. **Debt diminishes strategic flexibility and hence long-term value creation.**
 4. Ignoring M&A Junkies
 5. Not Predicting Where the Puck Will be
 6. Not Aligning with Unaligned Owners 
