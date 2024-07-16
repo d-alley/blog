@@ -38,7 +38,7 @@ Buffett's Two Rules of Investing
 
 **A Great Investor Is a Great Rejector**
 
-*There are very few good investments in the market.*
+***There are very few good investments in the market.***
 
 Minimizing Type I errors increases Success Rate much more dramatically than minimizing Type II errors, simple because there are few good investments.
 
