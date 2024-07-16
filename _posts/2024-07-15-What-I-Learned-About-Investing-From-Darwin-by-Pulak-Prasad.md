@@ -106,4 +106,6 @@ Lyudmila's selection of tamer foxes alttered the amount and timing of release of
 
 >***Darwin predicted that if humans choose to select for one characteristic, they will surely also cause transformations in other characteristics owing to what he called the "mysterious laws of the correlation of growth".***
 
-**At Nalanda, they *begin* with historical return on capital employed (ROCE) while short-listing businesses.**
+**At Nalanda, they *begin* with *historical* return on capital employed (ROCE) while short-listing businesses.**
+
+$ROCE = Operating Profit (EBIT) / Total Capital Employed (net working capital + Net Fixed Assets)$
