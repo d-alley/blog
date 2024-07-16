@@ -60,3 +60,6 @@ Minimizing Type I errors increases Success Rate much more dramatically than mini
 >1. Government-owned businesses: The government wants to achieve multiple objectives with their businesses, some of which have nothing to do with enhancing value and profits. The skill required to run a company successfully in a competitive environment is not the same as that needed to manage a district or devise a sound social policy for a state.
 >2. Listed subsidiaries of global giants: they are more interested in the value creation of the *parent*, not the Indian-listed child. Best managers in MNCs are sent tto the privately held *separate* fully owned subsidiary, not the listed subsidiary that the Indian government forced them to list.
 >3. Indian conglomerates: value creation is possible only through sustained focus. How does one achieve excellence in multiple entities across entirely different industries?
+
+**At Nalanda, shortlist comprises 75 to 80 companies out of a universe of about 800 with a market value of more than $100 million.**
+
