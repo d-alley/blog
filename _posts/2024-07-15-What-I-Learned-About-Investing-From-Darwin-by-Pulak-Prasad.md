@@ -7,6 +7,8 @@ In the Acknowledgements section, the author read the book *The Selfish Gene* by 
 
 ## Avoid Big Risks
 
+### Chapter 1 Oh, to be a Bumblebee
+
 >In Chapter 1, the author discussed how <ins>"betting your life"</ins> is a remarkably sound strategy for investing and how adopting this approach has led to the spectacular success of *all* living organisms over millions of years.
 
 Type I error: do things we are not supposed to do, e.g. make a bad investment because I erroneously think it is a good one. Harm themselves.
@@ -68,6 +70,8 @@ Minimizing Type I errors increases Success Rate much more dramatically than mini
 
 ## Buy High Quality at a Fair Price
 
+### Chapter 2 The Siberian Solution
+
 *An economic franchise arises from a product or service that (1) is needed or desired; (2) is thought by its customers to have no close substitute; and (3) is not subject to price regulation. The existence of all three conditions will be demonstrated by a company's ability to regularly price its product or service aggressively and thereby to earn high rates of return on capital. Moreoever, franchises can tolerate mismanagement. Inept managers may diminish a franchise's profitability, but they cannot inflict mortal damage.* - Warren Buffett, 1991
 
 Two-step approach at Nalanda:
@@ -119,3 +123,61 @@ The advantage of measuring ROCE is that it accounts for the quality of P&L (in t
 
 **A Consistently High-ROCE Business Is Likely to Be Run by an Excellent Management Team**
 
+The *only* indicator of the *quality* of the management team is their historical track record on the *quantity* of ROCE.
+
+SUstaining high ROSE in *any* industry over *any* length of time is extraordinarily hard.
+
+The median historical ROCE of Nalanda's portfolio of 30 businesses - most of which are more than 35 to 40 years old - is about 42%.
+
+**A Consistently High ROCE Business Is Likely to Have a Strong Competitive Advantage**
+
+Just having a brand means nothing. A sustained high ROCE is a good *starting* point to conclude that the company may have *some* kind of competitive advantage.
+
+**A Consistently High-ROCE Business Allocates Capital Well**
+
+Great businessess try to earn the maximum operating profit per unit of capital deployed.
+
+Nalanda assumes that a company with high ROCE is, *on average*, deploying its capital well.
+
+**A Consistently High-ROCE Business Allows Companies to Take Busienss RIsk Without Taking FInancial Risk, Which Increases the Chance of Business Success.**
+
+Capitalism thrives on risk-taking. Most companies thrive in the Goldilocks zone of *calculated* risk-taking. High ROCE allows a comapny to keep taking calculated business risks.
+
+A company delivery high ROCE with modest revenue growth will generate excess cash. This allows a company to withstand short-term pain to achieve longer-term goals.
+
+Nalanda rejects companies with long-term historical ROCE lower than 20%.
+
+### Chapter 3 The Paradox of Mckinsey and Sea Urchins
+
+Marvin Bower joined McKinsey in 1933 and transformed the small engineering and accounting firm into the management consulting powerhouse it is today. It used to serve mostly manufacturers in its early days, but now it's all over Google, Facebook, or a hot new start-up in the Valley.
+
+Ask the question "How do we change faster, better, and easier?" or "How do we change *without* changing?"
+
+**The Genetic Code Is Robust**: It funneled down 64 possibilities to just 20 through synonymous mutation. Any of the 4 nucleotides (A, C, U, G) can occupy one o the 3 bases, 64 possible amino acids (4 x 4 x 4). Two or more codons can code for the *same* amino acid. For instance, GGU, GGC, GGA, and GGG are all glycine. The formation of glycine is thus highly robust to mutations on the 3rd base.
+
+**Proteins are Robust**
+1. Function of proteins is unaffected by the vast majority of amino acid changes. B-lactamse protein has 263 amino acids, 84% of which can experience mutation *without* changing the enzyme's basic function.
+2. Proteins with similar functions and structures can be made from different amino acid sequences. E.g. the three-dimensional structure of whale myoglobin and clam hemoglobin can be almost perfectly superimposed despite only 18% of their amino acids overlap.
+3. Vast majority of amino acid sequences fold into very few structures. Protein structure with 100 amino acids has possible protein fold of 20^100. However, only about 20^3 proteins exist.
+
+**The Body is Robust**: Two species of sea urchins T and E diverged about 5 million years ago (almost the same time chimpanzees and humans diverged). T produces larvae that bear no physical resemblance to the adult, E develops *directly* from an egg with no larval stage in between. However, they maintained their body plans and look almost the same.
+
+**The Evolution of Evolvability** In 1968, Japanese geneticist Motoo Kimura proposed that most mutations are *neutral*, while causes robustness in the organism. While a neutral change does not alter the *primary* function, it can alter a *secondary* function, thereby becoming the source of a *future* innovation.
+
+This is what we seek as owners of businesses: the ability to keep evolving while staying robust.
+
+**Businesses Must Be Robust to Evolve**
+
+Many factors contributing to robustness are qualitative.
+
+|---|---|
+|**Most robust**|**Least robust**|
+|---|---|
+|Has delivered high historical ROCE over a long period|Has made operating losses for most or all of its history|
+|Has a fragmented customer base|Is dependent on very few customers|
+|Has no debt and has excess cash|Is highly leveraged|
+|Has built high competitive barriers|Has been unable to keep competition away|
+|Has a fragmented supplier base|Is dependent on a few suppliers|
+|Has a stable management team|Management turnover is high|
+|Industry is slow changing|Industry is evolving fast|
+|---|---|
