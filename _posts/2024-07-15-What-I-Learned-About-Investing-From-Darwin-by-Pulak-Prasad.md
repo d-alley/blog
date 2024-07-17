@@ -2,7 +2,7 @@
 
 In the Acknowledgements section, the author read the book *The Selfish Gene* by Richard Dawkins, recommended by Charlie Munger in 2000 and his life hasn't been the same since. The book is broken down into 3 sections:
 1. Avoid Big Risks
-2. Buy High Quality at a Fair Price
+2. Buy High Quality at a Fair Price (Chapter 2 to 4 deals with *What* to buy, Chapter 5 to 7 deails with *How* to buy)
 3. Don't be lazy - be *very* lazy
 
 ## Avoid Big Risks
@@ -170,7 +170,6 @@ This is what we seek as owners of businesses: the ability to keep evolving while
 
 Many factors contributing to robustness are qualitative.
 
-|---|---|
 |**Most robust**|**Least robust**|
 |---|---|
 |Has delivered high historical ROCE over a long period|Has made operating losses for most or all of its history|
@@ -180,4 +179,53 @@ Many factors contributing to robustness are qualitative.
 |Has a fragmented supplier base|Is dependent on a few suppliers|
 |Has a stable management team|Management turnover is high|
 |Industry is slow changing|Industry is evolving fast|
-|---|---|
+
+Prasad hasn't figured out a reliable way in *advance* to directly assess a company's propensity to adapt to a changing world. But there is an indirect - and he would argue a reasonably reliable - path of satisfying his need. **If a company's growth is lower than its ROCE, it will also keep generating free cash flow.** The greater the robustness, the greater the evolvability.
+
+**LUCA** our last universal common ancestor from 3.5 billion years ago, had ruvustness at multiple levels: genes, proteins, body plan. Prasad discovered from his two decades of investment that *more* levels of robustness lead to *more* evolvability.
+
+**Highly Robust Businesses Evolve by Taking Calculated Risks**
+
+The company that best demonstrates calculated aggression and risk-taking is **Walmart**. Store openings and selling more products through the same stores propelled growth from 1967 to 1980. Sales per store during these 13 years increased about 7x. One of his experiments, Sam's Club, was launched in 1983 and within a decade crossed revenue of $10 billion. Walmart managed acquisitions by keeping targets small and manageable and funded them without taking on large debt.
+
+**Robustness Is a Proxy for Evolutionary and Business Success but Doesn't Guarantee it**
+
+The cataclysmic aftermath of an asteroid stike in the Yucatan peninsula 65 million years ago wiped out the dinosaurs, but the mammals survived, no one is sury why. The extraordinary robustness of dinosaurs did not guarantee their evolvability.
+
+A business can lose its robustness. A comapny's excessive focus on robustness may compromise growth.
+
+**The *Only* Way to Protect Against Loss of Robustness Is Entry Valuation**
+
+The median TTM entry PE ratio for the Nalanda portfolio is 14.9 vs 19.7 for Sensex from 2005 to 2020, vs 23.8 for Midcap Index. They buy exceptional businesses at 25% to 30% discount on the index.
+
+**A Leader is Made a Loser** Toys "R" Us didn't respond well to Amazon and was servicing $400 million a year in debt resulting from the LBO by KKR and Bain.
+
+### Chapter 4 The Perils of a Pavlovian
+
+Bateman's principle, named after an English geneticist, argues for the prevalence of polygyny in the animal kingdom: since females invest much more in offspring than do males, they are the limiting factor over which males compete, leading to polygyny. However, polyandry is more widspread than Bateman believed and one of these species is mite N. californicus.
+
+The ultimate cause of polyandry consists of both direct and indirect fitness benefits:
+1. Ultimate cause: Females that mated multiple times produced more offspring than females that mated just once, and these offspring also survived longer.
+2. Proximate cuase: If the females' firs mating period was below 150 minutes, the likelihood of their continuing to seek male partners increased. The immediate cause of females seeking more sex was a lack of sex.
+
+*Recognizing* the difference between **proximate** and **ultimate** causes is on top of all philosophical issues from evolutionary biology.
+
+The **ultimate** success of an investment is almost entirely dependent on the **ultimate** success of the business.
+
+The interesting thing about proximate causes ist hat they are almost always evident in screaming newspaper headlines and hyperventilating news anchors. **Ultimate causes, *thankfully*, are way too dull for media coverage.**
+
+**Proximate** causes of share price gyrations:
+1. Macroeconomic
+2. Market-related
+3. Thematic
+4. Company-specific factors
+
+---
+Companies the author mentioned:
+India listed: Supreme Industries, Page Industries, Asian Paints, Havells, Eicher Motors
+US listed: WNS, Walmart
+Others: McKinsey
+
+Books recommended:
+Lou Gerstner *Who Says Elephants Can't Dance? Inside IBM's Historic Turnaround
+Richard Dawkins *The Selfish Gene*, recommended by Charlie Munger in 2000
