@@ -215,10 +215,41 @@ The **ultimate** success of an investment is almost entirely dependent on the **
 The interesting thing about proximate causes ist hat they are almost always evident in screaming newspaper headlines and hyperventilating news anchors. **Ultimate causes, *thankfully*, are way too dull for media coverage.**
 
 **Proximate** causes of share price gyrations:
-1. Macroeconomic
-2. Market-related
-3. Thematic
-4. Company-specific factors
+1. Macroeconomic: economists failed to predict 148 of the last 150 recessions. Even big macro events (like the Asian financial crisis) are uncorrelated with longer-term stock price performance. Using proximate economic data to assess industry and company performance is very hard, if not impossible. No one knows anything.
+2. Market-related: John Maynard Keynes abandoned trying to guess what the average opinion expects the average winner to be, abandoned detailed economic model to predict market levels and switched to picking stocks and eschewed diversification. "The right method of investment is to put fairly large sums of money into enterprises one thinks one knows something about."
+3. Thematic: thematic investing is seductive as investors get hyped up by TAM which is simple to understand and is actionable. Even though TAM is pointless because it does not tell us whether any *profits* will be made.
+4. Company-specific factors: dilemma is much trickier to address when the proximate cause of problems relates to the company itself. **Developing a method and an instinct to separate proximate and ultimate causes of failure or success when they relate to a *company* event is invaluable for a long-term investor.** If the decline results from a loss of market share for three years in a row, ask if there is something fundamentally wrong with the business.
+
+Ultimate causes are way too dull for media coverage: Researchers showed that subjects remembered negative words faster and more often than positive ones and the media exploits this existing prejudice. In times of crisis, wonderful businesses were finally available at a price Nalanda could not refuse.
+
+### Chapter 5 Darwin Ate My DCF
+
+Prasad believes that the continued underperformance of fund managers is their focus on *future* rewards while ignoring the treasures of the *past*.
+
+Darwin adopted *Uniformitarianism* as a guiding principle of his evolutionary theory, which claims that all significant changes on Earth result from slow and steady natural processes operating over millions of years. His groundbreaking book *On the Origin of Species*, his focus on *historical* information to make deductions about *ongoing* evolutionary processes was made evident. He proposed *three* revolutionary theories:
+1. Natural Selection
+>Natural Selection requires three key ingredients:
+>1. random variation among the progeny of an organism
+>2. differntial fitness among these variants such that injurious variations get rejected and favorable ones are preserved
+>3. favorable traits must be heritable so that they are passed on to the next generation
+3. Sexual Selection
+4. Common Ancestry
+
+
+
+### Chapter 6 Bacteria and Business Replay the Tape
+
+### Chapter 7 Don't Confuse a Green Frog for a Guppy
+
+## Don't be Lazy - Be *VERY* Lazy
+
+### Chapter 8 Birds and Bears Bare an Aberration
+
+### Chapter 9 Eldredge and Gould Dredge up Investing Gold
+
+### Chapter 10 Where are the Rabbits?
+
+## Conclusion
 
 ---
 Companies the author mentioned:
