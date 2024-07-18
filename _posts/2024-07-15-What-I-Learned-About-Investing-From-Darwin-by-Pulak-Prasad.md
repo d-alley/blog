@@ -232,12 +232,56 @@ Darwin adopted *Uniformitarianism* as a guiding principle of his evolutionary th
 >1. random variation among the progeny of an organism
 >2. differntial fitness among these variants such that injurious variations get rejected and favorable ones are preserved
 >3. favorable traits must be heritable so that they are passed on to the next generation
-3. Sexual Selection
-4. Common Ancestry
 
+"Slow though the process of selection may be if a feeble man can do much by his powers of artificial selection, I can see no limit to the amount of change, to the infinite beauty and infinite complexity of the coadaptations between all organic beings, one with another and with their physical conditions of life, which may be affected in the long course of tiem by nature's power of selection."
 
+2. Sexual Selection: it was teh peahens who arbitrarily decided the aesthetics of a tail.
+3. Common Ancestry: most species have evolved from very few common ancestors, "descent with modification". Early-stage embroys of seemingly unrelated groups like mammals, birds and reptiles resemble one another so closely that it is hard to distinguish between them.
+
+**Darwin had the same historical facts as everyone else. It was only his *interpretations* that were radically new and different.**
+
+"Strategy" is "whatever companies do to achieve thei goals under conditions of uncertainty." Assessing *historical* strategies to understand business:
+- Which customer segments have ou targeted?
+- How have your products or services served the needs of customers?
+- In what ways have you been different from the competition?
+- How have you allocated capital historically?
+- What has been your capital structure, and why?
+Prasad ask these questions not to evaluate the answers objectively, but to subjectively assess if they fit their *preexisting hypotheses* of success or failure.
+
+**Assessing the strategy of a business is useless unless we have a strategy to comprehend the strategy.**
+
+Bias to reject almost every automotive component business as its clients do not allow them to make money. In the U.S., top 5 car companies controlled about 2/3 fo the market in 2021. In India, Maruti Suzuki controlls 50% of the Indian market. The Indian motorcycle market is an oligopoly of just 3 companies.
+
+Exception: NRB Bearings, CEO Harshbeena Zaveri, an anthropology graduate from Wellesly, best strategic thinker in Nalanda's portfolio
+1. The parts supplier would need to manufacture a critical component requiring proprietary technology
+2. Have a low customer concentration over many years
+3. Have only one or two competitors, and the competitive dynamics inthe industry should be stable over the long term
+4. Should have been no new entrants to the industry for many years
+5. The company should have delivered good financials historically
+
+"Better" relates to measurable parameters like ROCE, market share, free cash flow, balance sheet strength, consistency of financials, and other such measures.
+
+Prasad wants their businesses to gain market share over the long term, recognizing full well that the trend line may occasionally reverse in the short term.
+
+**There is almost nothign better than measuring market share of volume, revenue, and profit over a long period.**
+
+**Assigning Value to a Business**
+
+The *only* PE ratio Nalanda discuss relates to the devliered earnings of the past. It may be the previous 12 months or the past 3 years, or, for some highly cyclical businesses, even teh past 10 year average PE (i.e. current market value divided by the average earnings of the past 10 years).
+
+There are 2 main requirements for building a DCF spreadsheet: discount rate and cash flow projection. Both are close to impossible to forecast with precision.
+
+Risk comes first, quality second, and valuation last.
+
+History can teach us less about who *they* were and much more about who *we* are.
+
+As long-term investors, Prasad disassociated themselves from the "what will happen?" obsession and replaced it with "what has *actually* happened?". What matters is the *opinions* they build onto those facts, but at least they give them a foundation for discussion.
 
 ### Chapter 6 Bacteria and Business Replay the Tape
+
+**Convergence Is Ubiquitous**
+
+Australia, a nation of only 25 million people won 547 medals in the Summer Olympics (before Tokyo 2000), exceeding many nations much more significant in population. Australia was part of the supercontinent Pangea and its southern segment Gondwanaland, which started breaking apart about 180 million years ago. As a result, Australia has been a free-stnading continent for about 35 million years. The mammals on this massive island have been taking a unique evolutionary path during the time.
 
 ### Chapter 7 Don't Confuse a Green Frog for a Guppy
 
@@ -253,10 +297,11 @@ Darwin adopted *Uniformitarianism* as a guiding principle of his evolutionary th
 
 ---
 Companies the author mentioned:
-India listed: Supreme Industries, Page Industries, Asian Paints, Havells, Eicher Motors
+India listed: Supreme Industries, Page Industries, Asian Paints, Havells, Eicher Motors, Berger Paints, NRB Bearings
 US listed: WNS, Walmart
 Others: McKinsey
 
 Books recommended:
 Lou Gerstner *Who Says Elephants Can't Dance? Inside IBM's Historic Turnaround
 Richard Dawkins *The Selfish Gene*, recommended by Charlie Munger in 2000
+Stephen Jay Gould *Wonderful Life*, Harvard paleontologist and evolutionary biologist
