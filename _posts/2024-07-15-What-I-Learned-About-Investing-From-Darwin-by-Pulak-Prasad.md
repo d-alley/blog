@@ -283,6 +283,61 @@ As long-term investors, Prasad disassociated themselves from the "what will happ
 
 Australia, a nation of only 25 million people won 547 medals in the Summer Olympics (before Tokyo 2000), exceeding many nations much more significant in population. Australia was part of the supercontinent Pangea and its southern segment Gondwanaland, which started breaking apart about 180 million years ago. As a result, Australia has been a free-stnading continent for about 35 million years. The mammals on this massive island have been taking a unique evolutionary path during the time.
 
+Convergence in nature symbolizes a profound fact: There is a pattern to success and failure.
+
+Convergence in business symbolizes a profound fact: There is a pattern to success and failure.
+
+**We don't invest in individual businesses. It may seem like we do, but we don't.**
+
+We invest in convergent patterns. We seek patterns that repeat.
+
+Example: Naukri.com
+Confidence in Info Edge was high because it represents not one but two convergent patterns:
+(1) Yellow Pages were a fixture in every home, just liek a television or a refrigerator, before the age of the internet and mobile phones. It's highly profitable because of the virtual monopoly enjoyed by their network effect. 
+(2) Perforamnce of the leading internet job boards in other countries - found at least 7 other job boards globally with obscenely high operating margins. (more than 30 to 40%) and infinite ROCE.
+Seek in Australia (ASX:SEK), Dice and CareerBuilder in the United States, 51Job in China, EN in Japan (TYO:4849), 104 Corp in Taiwan (TPE:3130), Jobstreet in Singpaore and Malaysia. They were all cash machines.
+
+The convergent models of Yellow Pages and global job board businesses gave them the confidence to believe that the Naukri *template* is tough to beat. Make that almost impossible to beat.
+
+Winner takes all in the classifieds business, and they would never have bet against that pattern.
+No proof of concept for the business model - walk away.
+
+**Kahneman's Outside View and Convergence**
+
+Inside view vs Outside view
+
+Interested in the two airlines that TataGroup in India launched. Two options:
+(1) Perform a detailed analysis of one Asian airline, or
+(2) Focus on understanding the outside view of the airline industry.
+To analyze the industry in greater dept, they started with an extensive study conducted by IT on the U.S. airline industry from 2000 to 2013. The U.S. industry grew during this period. On revenue of $1.4 tln during this period, the airlines made a cumulative loss of $44 billion. Thus on an annual revenue of close to $100 bln ,the airline industry lost about $3 bln every year from 2000 to 2013.
+A report from the International Air Transport Association shows that from 2000 to 2014, the industry had not earned its cost of capital for 15 years in a row.
+The mediun ROE of the top 10 airlines (by revenue) in the world was 6.8%, and the median ROA was 2.5%. Scale does not guarantee success in this demanding industry.
+
+In this case, applying the **outside view** to investing yielded 2 significant benefits:
+(1) Avoided investing in a company an in an industry in which the odds of making money are very slim indeed.
+(2) The time, money and effort saved. Instead of conducting lengthy and unproductive management meetings, schmoozing the investor relations person, paying fat fees to consultants, and spending weeks to construct a multimegabyte Excel spreadsheet, they spent a few hours ion the internet, downloaded a few reports, and made their decision within a few minutes with ebough time left to go home early to their families.
+
+**Some Practical Ways of Applying the Principle of Convergence**
+
+Principles of convergence investing:
+(1) If the *industry* allows its companies to make money consistently, they love it; if not, they better have a *perfect* reason for spending even one minute analyzing a business like an airline. Life is too short.
+(2) 3 potential answers to the question of an industry's attractiveness and profitability: (a) companies in the industry struggle to keep their heads above water (airlines, telecom towers, garment manufacturing, commodity chemicals are notorious value destroyers, i.e. barely earn their cost of capital); (b) industry is uniformly attractive for its participants, e.g. Accenture, Cognizant, Infosys, TCS in IT outsourcing industry earn more than 40 to 50% ROCE and have been doing so for decades. India's leading midtier IT services business (NSE:LTIM) Their portfolio is full of companies in desirable industries: **enzymes, paints, cookers, business process outstourcing, bearings, compressors, consumer electricals, sanitaryware, and steam turbines**; (c) only some companies make money in specific industries. For example, walking along Fifth Avenue in Manhattan. For example **fashion** is a **brutal** place to be in - very few companies grow revenues and profits steadily. The same is true for **retailers** and **restaurants**. These are the trickiest companies to assess. 
+
+6 types of businesses they avoid **at all costs**:
+(1) Those owned and run by crooks;
+(2) Turnaround situations
+(3) Those with high levels of debt
+(4) M&A junkies
+(5) Those in fast-changing industries
+(6) Those with unaligned owners
+(Reliving bad experiences:1,2,5; Factual data analysis:4,5,6; Watching others stumble:2,3,6; learning from owners of portfolio companies:4,5)
+
+The **median trailing price/earnings (PE) ratio** for their portfolio at the time of investment is **less than 15** when the Indian market has been about 19 to 20. Rarely ever paid more than 20 times trailing PE.
+
+**Stay inactive for long periods until they get the price they want**
+
+
+
 ### Chapter 7 Don't Confuse a Green Frog for a Guppy
 
 ## Don't be Lazy - Be *VERY* Lazy
@@ -300,6 +355,12 @@ Companies the author mentioned:
 India listed: Supreme Industries, Page Industries, Asian Paints, Havells, Eicher Motors, Berger Paints, NRB Bearings
 US listed: WNS, Walmart
 Others: McKinsey
+
+Industries the author mentioned:
+Leading Internet Job boards: Info Edge (India) Ltd (NSE:NAUKRI), Seek (ASX:SEK), 51Job (China, Priviatized USD5.7bln in 2022), En Japan Inc (TYO:4849), 104 Corp (TPE:3130), Jobstreet (Singapore & Malaysia, Private)
+Desirable, Profitable Industries: IT Outsourcing (Accenture, Cognizant, Infosys TCS), enzymes, paints, cookers, business process outstourcing, bearings, compressors, consumer electricals, sanitaryware, and steam turbines
+Value Destroyer: Airlines, telecom towers, garment manufacturing, commodity chemicals
+Only some companies make money in specific industries: Fashion, retailers, restaurants
 
 Books recommended:
 Lou Gerstner *Who Says Elephants Can't Dance? Inside IBM's Historic Turnaround
