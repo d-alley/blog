@@ -283,9 +283,8 @@ As long-term investors, Prasad disassociated themselves from the "what will happ
 
 Australia, a nation of only 25 million people won 547 medals in the Summer Olympics (before Tokyo 2000), exceeding many nations much more significant in population. Australia was part of the supercontinent Pangea and its southern segment Gondwanaland, which started breaking apart about 180 million years ago. As a result, Australia has been a free-stnading continent for about 35 million years. The mammals on this massive island have been taking a unique evolutionary path during the time.
 
-Convergence in nature symbolizes a profound fact: There is a pattern to success and failure.
-
-Convergence in business symbolizes a profound fact: There is a pattern to success and failure.
+>Convergence in nature symbolizes a profound fact: There is a pattern to success and failure.
+>Convergence in business symbolizes a profound fact: There is a pattern to success and failure.
 
 **We don't invest in individual businesses. It may seem like we do, but we don't.**
 
