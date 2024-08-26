@@ -182,7 +182,7 @@ Many factors contributing to robustness are qualitative.
 
 Prasad hasn't figured out a reliable way in *advance* to directly assess a company's propensity to adapt to a changing world. But there is an indirect - and he would argue a reasonably reliable - path of satisfying his need. **If a company's growth is lower than its ROCE, it will also keep generating free cash flow.** The greater the robustness, the greater the evolvability.
 
-**LUCA** our last universal common ancestor from 3.5 billion years ago, had ruvustness at multiple levels: genes, proteins, body plan. Prasad discovered from his two decades of investment that *more* levels of robustness lead to *more* evolvability.
+**LUCA** our last universal common ancestor from 3.5 billion years ago, had robustness at multiple levels: genes, proteins, body plan. Prasad discovered from his two decades of investment that *more* levels of robustness lead to *more* evolvability.
 
 **Highly Robust Businesses Evolve by Taking Calculated Risks**
 
