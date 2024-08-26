@@ -292,8 +292,8 @@ We invest in convergent patterns. We seek patterns that repeat.
 
 Example: Naukri.com
 Confidence in Info Edge was high because it represents not one but two convergent patterns:
-(1) Yellow Pages were a fixture in every home, just liek a television or a refrigerator, before the age of the internet and mobile phones. It's highly profitable because of the virtual monopoly enjoyed by their network effect. 
-(2) Perforamnce of the leading internet job boards in other countries - found at least 7 other job boards globally with obscenely high operating margins. (more than 30 to 40%) and infinite ROCE.
+1. Yellow Pages were a fixture in every home, just liek a television or a refrigerator, before the age of the internet and mobile phones. It's highly profitable because of the virtual monopoly enjoyed by their network effect.
+2. Perforamnce of the leading internet job boards in other countries - found at least 7 other job boards globally with obscenely high operating margins. (more than 30 to 40%) and infinite ROCE.
 Seek in Australia (ASX:SEK), Dice and CareerBuilder in the United States, 51Job in China, EN in Japan (TYO:4849), 104 Corp in Taiwan (TPE:3130), Jobstreet in Singpaore and Malaysia. They were all cash machines.
 
 The convergent models of Yellow Pages and global job board businesses gave them the confidence to believe that the Naukri *template* is tough to beat. Make that almost impossible to beat.
@@ -306,39 +306,53 @@ No proof of concept for the business model - walk away.
 Inside view vs Outside view
 
 Interested in the two airlines that TataGroup in India launched. Two options:
-(1) Perform a detailed analysis of one Asian airline, or
-(2) Focus on understanding the outside view of the airline industry.
+1. Perform a detailed analysis of one Asian airline, or
+2. Focus on understanding the outside view of the airline industry.
 To analyze the industry in greater dept, they started with an extensive study conducted by IT on the U.S. airline industry from 2000 to 2013. The U.S. industry grew during this period. On revenue of $1.4 tln during this period, the airlines made a cumulative loss of $44 billion. Thus on an annual revenue of close to $100 bln ,the airline industry lost about $3 bln every year from 2000 to 2013.
 A report from the International Air Transport Association shows that from 2000 to 2014, the industry had not earned its cost of capital for 15 years in a row.
 The mediun ROE of the top 10 airlines (by revenue) in the world was 6.8%, and the median ROA was 2.5%. Scale does not guarantee success in this demanding industry.
 
 In this case, applying the **outside view** to investing yielded 2 significant benefits:
-(1) Avoided investing in a company an in an industry in which the odds of making money are very slim indeed.
-(2) The time, money and effort saved. Instead of conducting lengthy and unproductive management meetings, schmoozing the investor relations person, paying fat fees to consultants, and spending weeks to construct a multimegabyte Excel spreadsheet, they spent a few hours ion the internet, downloaded a few reports, and made their decision within a few minutes with ebough time left to go home early to their families.
+1. Avoided investing in a company an in an industry in which the odds of making money are very slim indeed.
+2. The time, money and effort saved. Instead of conducting lengthy and unproductive management meetings, schmoozing the investor relations person, paying fat fees to consultants, and spending weeks to construct a multimegabyte Excel spreadsheet, they spent a few hours ion the internet, downloaded a few reports, and made their decision within a few minutes with ebough time left to go home early to their families.
 
 **Some Practical Ways of Applying the Principle of Convergence**
 
 Principles of convergence investing:
-(1) If the *industry* allows its companies to make money consistently, they love it; if not, they better have a *perfect* reason for spending even one minute analyzing a business like an airline. Life is too short.
-(2) 3 potential answers to the question of an industry's attractiveness and profitability:
+1. If the *industry* allows its companies to make money consistently, they love it; if not, they better have a *perfect* reason for spending even one minute analyzing a business like an airline. Life is too short.
+2. Three potential answers to the question of an industry's attractiveness and profitability:
 >1. companies in the industry struggle to keep their heads above water (airlines, telecom towers, garment manufacturing, commodity chemicals are notorious value destroyers, i.e. barely earn their cost of capital);
 >2. industry is uniformly attractive for its participants, e.g. Accenture, Cognizant, Infosys, TCS in IT outsourcing industry earn more than 40 to 50% ROCE and have been doing so for decades. India's leading midtier IT services business (NSE:LTIM) Their portfolio is full of companies in desirable industries: **enzymes, paints, cookers, business process outstourcing, bearings, compressors, consumer electricals, sanitaryware, and steam turbines**;
 >3. only some companies make money in specific industries. For example, walking along Fifth Avenue in Manhattan. For example **fashion** is a **brutal** place to be in - very few companies grow revenues and profits steadily. The same is true for **retailers** and **restaurants**. These are the trickiest companies to assess. 
 
-6 types of businesses they avoid **at all costs**:
-(1) Those owned and run by crooks;
-(2) Turnaround situations
-(3) Those with high levels of debt
-(4) M&A junkies
-(5) Those in fast-changing industries
-(6) Those with unaligned owners
+Six types of businesses they avoid **at all costs**:
+1. Those owned and run by crooks
+2. Turnaround situations
+3. Those with high levels of debt
+4. M&A junkies
+5. Those in fast-changing industries
+6. Those with unaligned owners
 (Reliving bad experiences:1,2,5; Factual data analysis:4,5,6; Watching others stumble:2,3,6; learning from owners of portfolio companies:4,5)
 
-The **median trailing price/earnings (PE) ratio** for their portfolio at the time of investment is **less than 15** when the Indian market has been about 19 to 20. Rarely ever paid more than 20 times trailing PE.
+**Nalanda is price sensitive.** The **median trailing price/earnings (PE) ratio** for their portfolio at the time of investment is **less than 15** when the Indian market has been about 19 to 20. Rarely ever paid more than 20 times trailing PE.
 
 **Stay inactive for long periods until they get the price they want**
 
+Article the author likes best on the subject of valuation and return is "Value and Growth Investing:Review and Update" by Louis K. C. Chan and Josef Lakonishok and it's great for two reasons:
+1. meta-research article that summarizes the conclusions of many other researchers over many years across several countries;
+2. while both authors are academics, Lakonishok is the CEO and CIO of $100 billion fund called LSV Asset Management. It's always good to hear from people whose research conclusions matter to their bank balance.
+>**Focus on table 2**. It shows returns over 20 years (from 1975 to 1995) across 13 countries for "value" stocks and "glamour stocks" across four valuation measures. The value portfolio beats the glamour portfolio. The outperformance ranges frm 1.5% for Switzerland to 6.7% for the United States.
 
+>A large body of empirical research indicates that value stocks, on average, earn higher returns than growth stocks. The reward to value investing is more pronounced for small-cap stocks, but it is also present in large-cap stocks. The value premium exists also in equity markets outside the United States.
+
+**Under what situations should we *NOT* apply the principle of convergence?**
+
+The probability of convergent evoluion is higher in living organisms if they share similaries in genetics, development and ecology. The greater the similarity of "conditions" in businesses, the greater is the benefit of using teh principle of convergence in investing.
+1. When evaluating a company that builds residential properties in Germany. To incorporate an outside view, he would start with developing an understandin gof the dynamics of the German residential property market - the industry participants, track record of growth and profitability, extent of consolidation, and anything else that would get him smart on the overall German residential market. He woudl prefer not to draw parallels with Germany's commercial or retail real estate market because the industry structure and types of players are usually different across these segments. Should they study French, Spanish or Brazilian residential real estate market? It depends whether these other markets have a similar industry struture to that of Germany (e.g. is the industry fragmented or consolidated?) or whether the regulations are primarily comparable (e.g. if a government subsidizes mortgage payments for its citizens, it will dramatically affect consumer behavior). Intuitively, given the cultural and historical affinity of the French and Spanish residential markets, he would be more inclined to draw lessons from those markets and not Brazil's. 
+2. Take the case of German company manufacturing industrial robots. These robots are supplied to manufacturing businesses across the world. Since this is a global business, Prasad would not worry too much about the German angle. Instead, he would research enterprises supplying the same or similar equipment worldide, whether based in China, Italy or Singapore, to understand their growth, profitabiliyt, and trends in market share. He would also go one level "higher" to analyze the performance of global businesses that supply sophisticated industrial machinery. He may not assign as much weight to this second analysis, but would study it to discern any apparent trends if available.
+3. Take the case of German hospital business. Should we use convergent investing by assessing the economics and insutry structure of hospitals in the UK, Italy and the Netherlands? Health care in most markets is heavily regulated, and this may significantly impact the economics of the hospital. Instead, they could use a shortcut to see if the overall hospital economics - of those of the top 5 to 10 hospitals if industry data are unavailable - are comparable across countries. Since hospitals are a services business, can they use the information from other German service sectors (say hotels) to refine their assessment?
+
+>One situation to never apply convergence is when the industry is **new** or **fast-changing**. Convergent evolution is more evident in plants and insects since they have been around on Earth longer than birds and mammals. It takes time for convergence to emerge. This fact is equally applicable to the world of business.
 
 ### Chapter 7 Don't Confuse a Green Frog for a Guppy
 
@@ -368,3 +382,7 @@ Books recommended:
 Lou Gerstner *Who Says Elephants Can't Dance? Inside IBM's Historic Turnaround
 Richard Dawkins *The Selfish Gene*, recommended by Charlie Munger in 2000
 Stephen Jay Gould *Wonderful Life*, Harvard paleontologist and evolutionary biologist
+
+Article recommended:
+"Value and Growth Investing:Review and Update" by Louis K. C. Chan and Josef Lakonishok
+
