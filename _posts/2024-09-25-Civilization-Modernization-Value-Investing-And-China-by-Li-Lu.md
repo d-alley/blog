@@ -34,8 +34,6 @@ Since his youth, he has sought two things: truth and meaning. Over time, he came
 
 ## Part I: Civilization, Modernization and China
 
-### Chapter 1 Oh, to be a Bumblebee
-
 ## Part II: Value Investing and Rational Thinking
 
 ### Value Investing and China
