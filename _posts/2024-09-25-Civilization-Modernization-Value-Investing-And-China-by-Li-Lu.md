@@ -1,4 +1,4 @@
-<img src="https://d-alley.github.io/blog/images/2024-09-25-Image">
+![image](https://github.com/user-attachments/assets/4aec4e6f-d32d-4b97-9112-3be5b0e385ce)<img src="https://d-alley.github.io/blog/images/2024-09-25-Image">
 
 In the Preface, the author describes his early fascination with contemplating all kinds of problems. He was drawn to Physics and Mathematics (especially Trigonometry) for their ability to explain the complex world using simple formulas and language. During the open exam for high school students in China, his sole aspiration was to be accepted into a Physics program in college.
 
@@ -53,6 +53,98 @@ The game of investing is a process of discovering:
 then magnifying that until you gain a **sizable edge** over all the other people.
 
 Investing is about predicting the future, and the future is **inherently unpredictable**. Therefore the only way you can do it better is to assess all the facts and *truly know* what you know and what you don't know.
+
+>Where do you find investment ideas?
+
+Ideas come to me from all sources, principally from reading and talking. I don’t discriminate how they come, as long as they are good ideas. You can recognize good ideas by reading a great deal and also by studying a lot of companies and constantly learning from intelligent people – hopefully more intelligent than you are, especially in their field.
+
+>How do you assess management of a corporation?
+
+If you can’t assess the quality of management, you may have to make a decision in spite of that. That’s just part of the process. So you have to figure out other ways such as looking at the quality of the business, the valuation, or something else until you can justify an investment. If you do have a way to assess the quality of the management team, either because you’re an astute student of human psychology, or you have a special relationship with the people, then you’ll take that into consideration. Why wouldn’t you? The management team is part of what really makes a company.
+
+>How do you allocate between US and foreign countries?
+
+You start out by holding cash, and that is a pretty good opportunity cost, because it doesn’t go down. So any time you find an investment, it has to be an improvement on an overall risk -adjusted basis. You may find some very interesting things, and now you’ve got a basket of a few interesting securities plus cash. That is a pretty good opportunity cost, and the next time you add another security, it better make the portfolio better than the existing one. You just constantly improve your opportunity cost.
+
+>How do you define your circle of competence?
+
+I let my own personal interests define my circle of competence. But over time, if you are interested in businesses in addition to securities, you begin to become a student of businesses. Eventually, one thing leads to another and you begin to learn different businesses. You learn the DNAs of businesses, how they progress, and why they are so strong. Over time, I really fell in love with strong businesses. I morphed into finding strong businesses at bargain prices.
+
+>On BYD
+
+I don’t think that Warren and Charlie are ideological. Neither am I. It’s really how much you know. The story of BYD is relatively simple. This guy, who is a really terrific engineer, started the business from just a $300,000 loan with no additional money until the IPO. He created a company with $8 billion in revenue and 170,000 employees and tens of thousands of engineers. He solved a whole bunch of different problems.
+
+They play in a big field with open-ended possibilities and have a reasonable chance of being successful.This company is a learning machine. They are in a market where every single international major brand is competing, with an all-out effort, because it’s such a big market. So they never had any home advantage whatsoever because China’s auto market started out completely open with everybody competing. Yet there’s a little car company with very little money, and, in less than 10 years, it’s selling more than half a million cars a year and has carved out a position for itself. You have to say, the record is not too bad, and so there’s something to it. They also have an engineering culture and a can-do spirit. They consistently demonstrate that they’re able to tackle really complex engineering problems and come up with very practical solutions faster, cheaper, and better than most other people. That is an advantage in the manufacturing economy.
+
+> On investing in technology stokcs
+
+Most businesses are subject to change if you stay with them long enough. There’s not a single business that I know of that will never change. That’s the fascinating thing about business. Successful technology companies are the ones that are capable of reinventing themselves and dealing with change.
+
+Take Samsung – their early memory chip business decreased in price by 1% every week, and yet they really developed a culture that precisely deals with that change. So when they apply the same culture to something like a cell phone, they get ahead very quickly. Now they’re outselling Apple. So culture really plays an important role in those faster-changing environments, enabling certain companies to always surge ahead of everybody else.
+
+It certainly is a plus, but not a must. If you were really a great engineer in the product the business is selling, obviously it’s a plus. But it’s certainly not a must because no matter how good you are at a certain area, you’re not so good in other areas. The pace of change is such that whatever you are now specialized in will become obsolete. But that doesn’t disqualify you from making a judgment on how a company can develop a culture to deal with that. 
+
+I think you want to avoid wrong decisions as much or more than you want to get it approximately right. If you avoid the wrong decisions, you’ll probably come out okay over time. But, I agree with you, it’s not easy and it’s not precise or a science at all. Hopefully one improves overtime.
+
+>Compensation structure in the Investment Management business
+
+My ambition has never been to run the largest fund. I never wanted to earn the most money out of a fund. I just wanted to have, by the time I finished my career, one of the best track records on a risk -adjusted basis. If I achieve that, I will feel very good about myself. That’s my goal, and therefore the compensation structure of the fund reflects that. 
+
+Over time, I switched into the best compensation structure I knew in the industry, the original “Buffett partnership formula”. We don’t take any management fee. We provide a 6% return for free to our investors and then take 25% after that. I don’t invest anything outside of the fund. I put all of my investment capital into my funds. So it’s a true partnership.
+
+The minute that new money arrives, it begins to compound 6% on an annual basis against me, so I better be able to find something that is worthwhile and doing better. When I make money, I feel like I earn it, and when my investors make money, they earn it. It is just a better way to structure a business – you feel that everybody’s success is deserved.
+
+>On Selling
+
+One should make sell decisions on one of three occasions:
+1. If you make a mistake: Investing is a probability game. Let’s say you go into a situation with 90% confidence that things will work out one way and a 10% chance they work out another way, and that 10% event happens. You sell it.Then there’s a mistake that your analysis is completely wrong. You thought it was 99% one way but it was actually 99% the other way. When you realize that, sell as fast as you can.
+2. When the valuation swings way too much to the other end of the extreme: If you are right and hold a company for a long time, you have accumulated a large amount of unrealized gains. A big portion of those unrealized gains act like borrowings from the government interest free and legally. So when you sell that position, you take all the leverage and you take a bunch of the capital out, so your return on equity has just become a little less.
+3. When you find something that is better: Essentially, a portfolio as I said is opportunity cost. Your job as a portfolio manager is to constantly improve on your basket. You start with a high bar. You want to increase the bar higher and higher. You do that by constantly improving the opportunity costs; you find something better.
+
+>On Shorting
+
+There are three reaons that make shorting a miserable business:
+1. Limited upside and unlimited downside.
+2. Fraud takes time to uncover, short borrows can bankrupt your bank roll.
+3. Messes up your mental state
+4. Economy grew consistently for 200-300 years, economic growth is naturally in favor of longs in terms of odds
+
+>On Financial Crisis
+
+**Intellectual Honesty** is the most important virtue in the investment management industry. You have to be extremely clear about:
+1. What you know
+2. What you don't know
+3. What you dont' need to know
+4. Unknown unknowns
+
+**Intelligent Investor** can distintly know whether they know or they dont' know, and now what they don't have to know, and that there exist unknown unknowns.
+
+Christopher Davis’s grandfather used to say that *"You make the most money out of a bear market financial panic – you just don’t know it at the time."* It’s always the case.
+
+>On China
+
+The importance of China cannot be ignored.
+China is so big. It has all sorts of extreme phenomena. If you go through the American Civil War, the country killed two percent of its population. And yet, not only was it rebuilt, but it was rebuilt at a furious pace. And it went through two great world wars. After World War II, if you thought Japan and Germany were doomed, boy were you wrong.
+
+>Recommendations for those interested in Investment Management
+
+Start by learning from the best – **listening, studying, and reading**. But the most important thing in understanding the investment business is by doing it. There is no substitute to actually doing it. The best way to do it is to study one business inside and out for the purpose of making the investment – you may not actually invest. But having gone through the discipline of understanding one business as if you own 100% of that business is very valuable. 
+
+To start, take an easy -to - understand business. It could be a tiny business – a little concession store, a restaurant, or a small publicly traded company. It doesn’t matter. Understand one business and what really makes it tick:
+1. How it makes money
+2. How it organizes its finances
+3. How management makes its decisions
+4. How it compares to the competition
+5. How it adjusts to the environment
+6. How it invests extra cash
+7. How it finances the business
+
+You should understand every aspect of one business as if you own 100% but you don’t actually run it. This causes you to be desperate to understand every aspect to protect your investment. That will give you a sense of a **disciplined approach**. That’s how you truly understand business and investing.
+
+Warren always says that to be a good investor, you need to be a good businessman, and to be a good businessman, you need to be a **good investor in terms of capital allocation**.
+
+Start by **understanding one thing within your control** that you can understand **inside and out**. That is a terrific starting point. If you start from that basis, you are fundamentally in the right direction of becoming a great security analyst.
+
 
 
 
