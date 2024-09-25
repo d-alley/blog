@@ -41,6 +41,19 @@ Since his youth, he has sought two things: truth and meaning. Over time, he came
 **Investing as a Journey of Self-Discovery
 –	Edited Interview with Graham&Doddsville Magazine of Columbia Business School, March 2013**
 
-How to be a good investor?
+>How to be a good investor
+
+Part of the game of investing is to **come into your own**. You must find some way that perfectly fits your personality. It's a competitive game and you will run into a lot of very intelligent, hardworking fellows.
+
+The game of investing is a process of discovering:
+1. Who you are?
+2. What are you interested in?
+3. What are you good at?
+4. What do you love to do?
+then magnifying that until you gain a **sizable edge** over all the other people.
+
+Investing is about predicting the future, and the future is **inherently unpredictable**. Therefore the only way you can do it better is to assess all the facts and *truly know* what you know and what you don't know.
+
+
 
 ### Reading, Thinking and Reflections
