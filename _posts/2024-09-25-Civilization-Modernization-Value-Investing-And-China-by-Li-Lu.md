@@ -38,4 +38,9 @@ Since his youth, he has sought two things: truth and meaning. Over time, he came
 
 ### Value Investing and China
 
+**Investing as a Journey of Self-Discovery
+–	Edited Interview with Graham&Doddsville Magazine of Columbia Business School, March 2013**
+
+How to be a good investor?
+
 ### Reading, Thinking and Reflections
