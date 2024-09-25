@@ -145,7 +145,34 @@ Warren always says that to be a good investor, you need to be a good businessman
 
 Start by **understanding one thing within your control** that you can understand **inside and out**. That is a terrific starting point. If you start from that basis, you are fundamentally in the right direction of becoming a great security analyst.
 
+**Investor, Speculator and the Markets
+–	Keynote Address at the Harvard Business School Investment Conference, March 24, 2018**
+
+After coming across Warren Buffett's lecture on investing, he spent one whole year studying Warren Buffett, Charlie Munger and Berkshire Hathaway. After that he bought his first stock using borrowed money. In the past 25-26 years, a switch in career has never crossed his mind.
+
+>What is a stock market?
 
 
+It’s a system that pools together the capital of small savers, creating a virtuous cycle through the design of the markets. When a corporation reports strong earnings, it benefits small savers who often wear multiple hats as employees, shareholders, and consumers. As employees, their wages increase; as savers, their wealth grows; and as consumers, they spend more on products and services produced by these very corporations. This, in turn, channels more capital back into the businesses, fueling further growth. When this dynamic unfolds on a large scale, it contributes to the overall prosperity of society. That’s the fundamental essence of markets.
+
+The major issue with the stock market is that most small savers don’t know how to accurately price stocks. When a corporation fails, stock prices drop, exposing small savers to significant inherent risks. For the positive reinforcement loop to function and create a win-win situation, certain conditions must be met—a **critical mass** must be reached. This means that the majority of small savers and corporations need to actively participate in the exchange system for these beneficial effects to materialize. This has been true throughout the history of stock market development.
+
+How did this come about? One defining feature of the stock market is that anyone who is allowed to buy is also allowed to sell. This aligns with human nature. Laziness, greed, and speculation are innate human instincts. If there’s an opportunity to gain more than what we’ve invested, we’re likely to take it. The stock market embodies this principle, and because of its alignment with human behavior, it draws more and more participants, creating a positive feedback loop.
+
+Most stock markets experience bubbles, so why have they stood the test of time? The answer lies in one crucial element: the presence of genuine savers who are willing to invest in growing enterprises. There are real, high-quality companies that need capital to expand. Once the number of these savers and enterprises reaches a critical mass, the market becomes efficient.
+
+The stock market is driven by two major forces:
+1. Investors who support companies at fair prices, providing them with the capital needed for sustainable growth.
+2. Speculators who engage in short-term trading to make quick profits. This is the primary reason the stock market attracts so many participants. The interaction of supply and demand among all these players determines transaction prices.
+
+The coexistence of these two forces—long-term investors and short-term speculators—helps create a dynamic and resilient market ecosystem.
+
+The quantitative trading camp and many of the most successful hedge fund managers employ thousands of mathematicians and physicists, even Nobel Prize Winners —yet not a single one of them can read a financial statement. This is what they call the Efficient Market Theory! In reality, short-term stock movements behave in a manner completely opposite to traditional economic theory. For example, in economics, when the price of a product increases, demand typically decreases; when the price falls, demand rises. But in the stock market, the opposite occurs: as stock prices rise, people buy more, and the faster prices climb, the more they buy. Conversely, when stock prices fall, everyone rushes to sell, and the deeper the market declines, the quicker the selling accelerates.
+
+In my 26 years of investing, I have never witnessed the market efficiently pricing the few companies I am deeply familiar with. Although fundamental investors represent a minority in terms of numbers and capital, they ultimately serve as the final arbiters of price. In the long run, the stock market is a weighing machine, and the true process of price discovery must be driven by fundamental investors, even though it is a lengthy journey. Only through fundamental investing can the market continue to fulfill its role in price discovery over the long term.
+
+At the same time, only with the existence of a reasonable price discovery mechanism can a market continue to grow. When a market reaches critical mass, listed companies will be able to represent the key players within the economic system, making index fund investing a viable option.
+
+In a modern economic system, compound growth can occur steadily over several centuries. For a stock market that has reached critical mass, the returns of index funds reflect the average stock investment returns within that economic system. Over the long term, these returns will mirror the compound growth of the economy’s GDP. While index funds may appear to be simple transaction vehicles, they rely fundamentally on the presence of active, fundamental investors. Without them, the market lacks an economic foundation for its existence and cannot achieve sustainable growth. Consequently, index investing would not be viable in the long run without the stabilizing force of fundamental investors.
 
 ### Reading, Thinking and Reflections
